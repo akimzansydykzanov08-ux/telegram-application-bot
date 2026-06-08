@@ -8,3 +8,5 @@ applications.db
 # Игнорируем кэш Python
 __pycache__/
 *.pyc
+
+applications.db
